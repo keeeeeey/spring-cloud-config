@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000
+  expiration_time: 864000000
   secret: my-token-dev
 
 gateway:
-  ip: 192.168.0.100
+  ip: 172.20.10.2
